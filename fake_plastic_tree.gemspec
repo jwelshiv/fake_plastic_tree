@@ -19,5 +19,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   
   s.add_development_dependency('rspec', '~> 2.4')
-  s.add_dependency('braintree', '~> 2.10.0')
+  s.add_dependency('braintree', '~> 2.14.0')
 end
